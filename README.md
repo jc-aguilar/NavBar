@@ -1,1 +1,1 @@
-# Navigatiion bar for web browser and mobile devices 
+# Navigation bar for web browser and mobile devices 
